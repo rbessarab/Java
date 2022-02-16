@@ -1,0 +1,22 @@
+Night, you are alone in a house and you heard a voice from the first floor.
+2: Continue to sit.
+4: Go down to the first floor.
+Your choice: 2
+
+After few minutes you heard this sound again.
+4: Go down to the first floor.
+3: Turn on the light.
+Your choice: 3
+
+You cannot turn it on because somebody broke it.
+5: Take a flashlight and go down to the first floor.
+Your choice: 5
+
+You are now on the first floor and you can see somebody is staying the bathroom.
+7: Take knife.
+6: Turn on the light.
+8: Take phone and call the police.
+Your choice: 8
+
+The monster heard a phone call from you adn attacked you.
+-1: You are now dead.

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6398f309-35a1-4d5b-979f-29121054b5f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jWwFS85bJTo3PtMqrzaVC5fq5s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MagicSquareTest">
+    <configuration name="MagicSquareGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicSquareGame" />
+      <module name="Magic_Squares" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MagicSquareGame" />
+      <module name="Magic_Squares" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tester" />
+      <module name="Magic_Squares" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magic_Squares" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MagicSquareTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareTest.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magic_Squares" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MagicSquareTest" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagicSquareTest.testHasAlreadyChosen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Magic_Squares" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MagicSquareTest" />
+      <option name="METHOD_NAME" value="testHasAlreadyChosen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MagicSquareTest" />
+        <item itemvalue="Application.MagicSquareGame" />
+        <item itemvalue="JUnit.MagicSquareTest.testConstructor" />
+        <item itemvalue="JUnit.MagicSquareTest.testHasAlreadyChosen" />
+        <item itemvalue="Application.MagicSquareGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6398f309-35a1-4d5b-979f-29121054b5f0" name="Default Changelist" comment="" />
+      <created>1603933052186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603933052186</updated>
+      <workItem from="1603933055350" duration="1087000" />
+      <workItem from="1604033590019" duration="4237000" />
+      <workItem from="1604083364578" duration="673000" />
+      <workItem from="1604200033959" duration="231000" />
+      <workItem from="1604260424292" duration="17609000" />
+      <workItem from="1604291057278" duration="15000" />
+      <workItem from="1605853425186" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604292511370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1604292511370" />
+    <state x="135" y="174" key="#com.intellij.ide.util.MemberChooser" timestamp="1604261609286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="135" y="174" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1604261609286" />
+    <state x="484" y="315" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604200091700">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="484" y="315" width="471" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1604200091700" />
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom" timestamp="1604294544650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604294544650" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center" timestamp="1604294544649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604294544649" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left" timestamp="1604294544649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604294544649" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right" timestamp="1604294544649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604294544649" />
+    <state width="1398" height="447" key="GridCell.Tab.1.bottom" timestamp="1604294544645">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604294544645" />
+    <state width="1398" height="447" key="GridCell.Tab.1.center" timestamp="1604294544644">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1604294544644" />
+    <state width="1398" height="447" key="GridCell.Tab.1.left" timestamp="1604294544643">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1604294544643" />
+    <state width="1398" height="447" key="GridCell.Tab.1.right" timestamp="1604294544644">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1604294544644" />
+    <state width="1398" height="447" key="GridCell.Tab.2.bottom" timestamp="1604294544646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604294544646" />
+    <state width="1398" height="447" key="GridCell.Tab.2.center" timestamp="1604294544645">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1604294544645" />
+    <state width="1398" height="447" key="GridCell.Tab.2.left" timestamp="1604294544645">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1604294544645" />
+    <state width="1398" height="447" key="GridCell.Tab.2.right" timestamp="1604294544646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="447" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1604294544646" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1605853424439">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1605853424439" />
+    <state x="374" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.790@0.23.1440.790" timestamp="1604200035571" />
+    <state x="424" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1604083403445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="353" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1604083403445" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1604278573678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1604278573678" />
+  </component>
+</project>

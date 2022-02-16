@@ -1,0 +1,12 @@
+Night, you are alone in a house and you heard a voice from the first floor. : Continue to sit. = 2 | Go down to the first floor. = 4
+After few minutes you heard this sound again. : Go down to the first floor. = 4 | Turn on the light. = 3
+You cannot turn it on because somebody broke it. : Take a flashlight and go down to the first floor. = 5
+You are now in first floor and you can't see anything but you heard this sound again. : Try turn on the light. = 6
+You are now on the first floor and you can see somebody is staying the bathroom. : Take knife. = 7 | Turn on the light. = 6 | Take phone and call the police. = 8
+You turned on the light and the monster attacked you from behind. : You are now dead. = -1
+You took knife. : Attack the monster. = 9 | Go to another room to find something to protect yourself. = 10
+The monster heard a phone call from you adn attacked you. : You are now dead. = -1
+You attacked the monster but you understand it's hard to fight with him. : Continue to fight. = 11 | Try to run. = 12
+You found nothing. : Attack the monster. = 9
+Unfortunately, you could not defeat him. : You are now dead. = -1
+You escaped from the monster. : You survived. = -2
